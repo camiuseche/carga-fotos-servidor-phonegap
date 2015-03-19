@@ -1,4 +1,4 @@
 # carga-fotos-servidor-phonegap
 Carga de fotos al servidor desde Phonegap
 
-El archivo _uploadImages.php_ debe ser subido al servidor donde graba las imágenes y su ruta completa cambiada en el archivo _js/index.js_
+El archivo uploadImages.php debe ser subido al servidor donde graba las imágenes y su ruta completa cambiada en el archivo js/index.js
